@@ -1,0 +1,26 @@
+.box{
+    width: 320px;
+    height: 138px;
+    border: 1px solid #B4B4B4;
+   margin: 70px;
+}
+p{
+    width: 313px;
+    height: 22px;
+    color: #000;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+h3{
+    width: 313px;
+    height: 84px;
+    color: #808080;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
